@@ -1,0 +1,19 @@
+{
+  "name": "turnos",
+  "version": "1.0.0",
+  "description": "Central de Turnos Angular/Java",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://sebastian_fratini@bitbucket.org/upwork-team/proyecto-prueba.git"
+  },
+  "author": "Sebastian Fratini",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/upwork-team/proyecto-prueba#readme",
+  "dependencies": {
+    "@angular/cli": "^9.1.4"
+  }
+}
