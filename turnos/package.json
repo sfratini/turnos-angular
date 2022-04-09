@@ -22,7 +22,7 @@
     "@angular/platform-browser-dynamic": "~9.1.4",
     "@angular/router": "~9.1.4",
     "compodoc": "^0.0.41",
-    "moment": "^2.25.1",
+    "moment": "^2.29.2",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
